@@ -1,0 +1,1 @@
+{"version":3,"file":"main.f2ec0348f9df65709468.bundle.js","sources":["webpack:///./src/common/animationTimings.js"],"sourcesContent":["export default {\n  gridEnter : 1200,\n  gridLeave : 600,\n  cardEnter : 400,\n  cardLeave : 400,\n  cardStagger : 50\n}\n"],"mappings":"AAAA","sourceRoot":""}
